@@ -51,3 +51,4 @@ a larger epoch value because when I optimized the model with these characteristi
 ideal for this analysis.
 
 References: (shown in commentary of ipynb files)
+https://stackoverflow.com/questions/73509378/getting-keyerror-not-found-in-axis-when-trying-to-drop-a-column-from-datafram
